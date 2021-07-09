@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephen-lakes
 - 👀 I’m interested in building cool softwares and apps
-- 🌱 I’m currently learning Django, APIs
+- 🌱 I’m currently learning Django, Django Rest framework
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me: you reach me through my email @ste.oluyomi@gmail.com
 
