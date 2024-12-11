@@ -9,12 +9,12 @@
 stephen-lakes/stephen-lakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hi there, I'm [Stephen Oluyomi] 👋 
+## Hi there, I'm Stephen Oluyomi 👋 
 
 I'm a passionate software engineer with a strong background in developing scalable web applications. With a deep understanding of both front-end and back-end technologies, I am always eager to learn and adapt to new challenges.
 
 - 💻 **Tech Stack**: 
-  - **Frontend**: HTML, CSS, JavaScript, React, Angular
+  - **Frontend**: HTML, CSS, JavaScript, React
   - **Backend**: Node.js, Express, Python, Django, Flask
   - **Databases**: MySQL, PostgreSQL, MongoDB
   - **Tools**: Git, Docker, Kubernetes, AWS
