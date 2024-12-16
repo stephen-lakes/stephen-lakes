@@ -31,7 +31,7 @@ I'm a passionate software engineer with a strong background in developing scalab
   - Enjoy contributing to open-source projects and collaborating with other developers.
   - Exploring new tech trends and continuously expanding my knowledge.
 
-Feel free to check out my [portfolio](https://stephen-lakes.github.io/) for more information about my projects and experiences!
+Feel free to check out my [portfolio]([https://stephen-lakes.github.io/](https://stephen-dev-frontend.onrender.com/) for more information about my projects and experiences!
 
 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/stephenoluyomi/)
