@@ -15,7 +15,7 @@ I'm a passionate software engineer with a strong background in developing scalab
 
 - 💻 **Tech Stack**: 
   - **Frontend**: HTML, CSS, JavaScript, React
-  - **Backend**: Node.js, Express, Python, Django, Flask
+  - **Backend**: Node.js, Express, Python, Django
   - **Databases**: MySQL, PostgreSQL, MongoDB
   - **Tools**: Git, Postman, Docker, Kubernetes, AWS, GCP, Atlas
 
