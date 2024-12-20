@@ -17,7 +17,7 @@ I'm a passionate software engineer with a strong background in developing scalab
   - **Frontend**: HTML, CSS, JavaScript, React
   - **Backend**: Node.js, Express, Python, Django, Flask
   - **Databases**: MySQL, PostgreSQL, MongoDB
-  - **Tools**: Git, Docker, Kubernetes, AWS
+  - **Tools**: Git, Postman, Docker, Kubernetes, AWS, GCP, Atlas
 
 - 🚀 **Current Projects**:
   - Working on enhancing performance and scalability of existing web applications.
