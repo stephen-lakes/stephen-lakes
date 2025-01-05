@@ -33,10 +33,16 @@ I'm a passionate software engineer with a strong background in developing scalab
 
 Feel free to check out my [portfolio]([https://stephen-lakes.github.io/](https://stephen-dev-frontend.onrender.com/) for more information about my projects and experiences!
 
-Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/stephenoluyomi/)
-- [Twitter](https://twitter.com/StephenOluyomi)
-- [Email](mailto:ste.oluyomi@gmail.com)
+### 📫 Find me on social media
+<br />
+<p align="center">
+    <a href="https://www.linkedin.com/in/stephenoluyomi/"><img src="https://raw.githubusercontent.com/frenck/frenck/main/images/linkedin.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/StephenOluyomi"><img src="https://raw.githubusercontent.com/frenck/frenck/main/images/x.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/StephenOluyomi"><img src="https://raw.githubusercontent.com/frenck/frenck/main/images/instagram.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+</p>
 
 ### :star2: GitHub Stats
 
