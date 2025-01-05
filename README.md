@@ -37,3 +37,10 @@ Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/stephenoluyomi/)
 - [Twitter](https://twitter.com/StephenOluyomi)
 - [Email](mailto:ste.oluyomi@gmail.com)
+
+### :star2: GitHub Stats
+
+<p align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=stephen-lakes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-lakes&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
