@@ -35,7 +35,7 @@ Feel free to check out my [portfolio]([https://stephen-lakes.github.io/](https:/
 
 ### 📫 Find me on social media
 <br />
-<p align="center">
+<p align="">
     <a href="https://www.linkedin.com/in/stephenoluyomi/"><img src="https://raw.githubusercontent.com/frenck/frenck/main/images/linkedin.svg"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/StephenOluyomi"><img src="https://raw.githubusercontent.com/frenck/frenck/main/images/x.svg"></a>
