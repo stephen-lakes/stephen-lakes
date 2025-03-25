@@ -1,21 +1,12 @@
 
 ## Hi there, I'm Stephen Oluyomi 👋 
-
-I'm a passionate software engineer with a strong background in developing scalable web applications. With a deep understanding of both front-end and back-end technologies, I am always eager to learn and adapt to new challenges.
+Software engineer with expertise in scalable application design, front-end and back-end technologies, and API development.
 
 - 💻 **Tech Stack**: 
   - **Frontend**: HTML, CSS, JavaScript, React
   - **Backend**: Node.js, Express, Python, Django
   - **Databases**: MySQL, PostgreSQL, MongoDB
-  - **Tools**: Git, Postman, Docker, Kubernetes, AWS, GCP, Atlas
-
-- 🎓 **Always Learning**:
-  - Exploring new technologies like blockchain and machine learning.
-  - Mentoring junior developers and helping them grow in their careers.
-
-- 🌱 **In My Free Time**:
-  - Enjoy checking out open-source projects and collaborating with other developers.
-  - Exploring new tech trends and continuously expanding my knowledge.
+  - **Tools**: Git, Postman, Docker, AWS
 
 Feel free to check out my portfolio ([https://stephen-lakes.github.io/](https://stephen-dev-frontend.onrender.com/) for more information about my projects and experiences!
 
