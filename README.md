@@ -1,16 +1,12 @@
 
-## Hi there, I'm Stephen Oluyomi 👋 
-Software engineer with expertise in scalable application design, front-end and back-end technologies, and API development.
+## Hi, I'm Stephen 👋 
 
-- 💻 **Tech Stack**: 
-  - **Frontend**: HTML, CSS, JavaScript, React
-  - **Backend**: Node.js, Express, Python, Django
-  - **Databases**: MySQL, PostgreSQL, MongoDB
-  - **Tools**: Git, Postman, Docker, AWS
+I'm a Software engineer who is passionate about building quality software and making contribution to open-source projects
+
 
 Feel free to check out my portfolio ([https://stephen-lakes.github.io/](https://stephen-dev-frontend.onrender.com/) for more information about my projects and experiences!
 
-### 📫 Find me on social media
+### 📫 Find me around the web
 <br />
 <p align="">
     <a href="https://www.linkedin.com/in/stephenoluyomi/"><img src="https://raw.githubusercontent.com/frenck/frenck/main/images/linkedin.svg"></a>
