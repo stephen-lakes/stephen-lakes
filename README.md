@@ -1,8 +1,7 @@
 
-## Hi, I'm Stephen 👋 
+## Stephen 👋 
 
-I'm a Software engineer who is passionate about building quality software and making contribution to open-source projects
-
+Software Engineer - Architecting scalable cloud & mobile system, driving full-cycle delivery
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/StephenOluyomi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephenoluyomi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StephenOluyomi) 
